@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+input:focus{
+    border-radius: 5% solid black;
+}
+
+
+
+button:active{
+    background-color: rgb(255, 187, 0);
+}
